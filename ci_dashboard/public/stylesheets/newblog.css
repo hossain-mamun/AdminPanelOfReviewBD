@@ -1,0 +1,21 @@
+.contDesign{
+	background-color:#D8D8D8 ;
+	
+}
+.labelDesign{
+	background-color: white;
+	padding-top: 10px;
+	text-align: center;
+}
+.fontColor{
+	color: black;
+}
+.rowMiddle{
+	margin-left: 70px;
+}
+.buttonMiddle{
+	margin-left: 85px;
+}
+.body{
+	background-color: #2c3e50;
+}

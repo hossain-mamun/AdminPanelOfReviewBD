@@ -1,0 +1,155 @@
+.body{
+	background-color: #2c3e50;
+}
+.contDesign{
+	
+	background-color:#D8D8D8 ;
+	height: 800px;
+}
+.jumbodesign{
+	margin-top: 10px;
+	background-color: white;
+	padding-top: 10px;
+	
+}
+
+.rowdesign{
+	padding-top: 20px;
+	margin-left: 50px;
+}
+.button{
+
+	margin-left: 100px;
+}
+.alert{
+	background-color: #EDDA74;
+	color: red;
+}
+.sidebar{
+	height: 690px;
+	background-color: #2c3e50;
+	margin-top: 70px;
+	color: white;
+}
+.menu{
+	
+	margin-top: 20px;
+}
+.home{
+	margin-top: 70px;
+	text-align: 
+	
+
+}
+.tableD{
+	margin-top: 80px;
+	background-color:#D8D8D8;
+}
+.nDesign{
+	background-color:#D8D8D8;
+	height: 680px;
+}
+.success{
+	background-color: #33CC99;
+	color: white;
+	text-align: center;
+}
+.dashB{
+
+margin-top: 30px;
+}
+
+.sidebar a {
+	color: white;
+
+
+}
+ table{
+ 	margin-bottom: 10px;
+ }
+
+ td{
+ 	border: 4px solid black;
+ }
+
+ th{
+ 	background-color: #cac9c9;
+ }
+
+  ul#nav {
+   list-style: none;
+  }
+
+  ul#nav li{
+  	padding: 10px;
+  	
+  }
+.bkimg{
+	height: 300px;
+	
+}
+#duser{
+	text-align: center;
+
+}
+div#duser a{
+	color: black;
+	
+	
+}
+.hrowcol{
+	padding-top: 20px;
+}
+
+.padd{
+	
+	padding-top: 15px;
+	margin-left: 35px;
+	background-color: white;
+	
+}
+.huge{
+	font-size: 150%;
+
+}
+.huge a {
+	color: white;
+}
+.graph{
+	padding-top: 70px;
+
+}
+.hmbg{
+	background-color:#D8D8D8; 
+	height: 690px;
+}
+.gracol{
+	margin-left: 20px;
+}
+.cal{
+	background-color: white;
+	margin-left: 25;
+	text-align: center;
+}
+div.cal td{
+	border: 1px solid black;
+	padding: 3px 6px 12px 36px;
+	
+
+}
+div.cal th{
+	margin-left: 20px;
+	text-align: center;
+}
+.report{
+	color: red;
+}
+.mailform{
+	padding-top: 50px;
+}
+.mailformbg{
+	background-color:#D8D8D8;
+	height: 690px;
+}
+
+
